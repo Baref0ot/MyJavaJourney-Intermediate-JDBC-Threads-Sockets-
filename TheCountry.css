@@ -1,0 +1,37 @@
+/**************************************************************************
+
+	Matthew Wright
+	Ronald Enz
+	Lab 6
+	7/18/2018
+	
+***************************************************************************/
+.root{
+	-fx-background-color: #786048;
+	-fx-background-position: bottom;
+}
+
+.label{
+	-fx-text-fill: #d8c060;
+	-fx-font-size: 12px;
+	-fx-font-weight: bold;
+}
+
+.text-field{
+	-fx-text-inner-color: #d8c060;
+	-fx-border-color: #d8c060;
+	-fx-border-type: solid;
+	-fx-border-width: 1px;
+	-fx-border-radius: 0;
+	-fx-background-color: #474247;
+}
+
+.button{
+	-fx-border-color: #d8c060;
+	-fx-border-type: solid;
+	-fx-border-width: 1px;
+	-fx-border-radius: 12;
+	-fx-background-color: #786048;
+	-fx-text-fill: #d8c060;
+}
+
